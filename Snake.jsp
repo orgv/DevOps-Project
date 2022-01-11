@@ -10,8 +10,8 @@ body {
 h1 {
   position: fixed;
   color: white;
-  top: 95px;
-  left: 748px;
+  top: 103px;
+  left: 693px;
   font-size: 60px;
   text-align: center;   
 }
