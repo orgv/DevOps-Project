@@ -9,7 +9,7 @@ body {
 }
 h1 {
   position: fixed;
-  color: black;
+  color: white;
   top: 103px;
   left: 693px;
   font-size: 60px;
